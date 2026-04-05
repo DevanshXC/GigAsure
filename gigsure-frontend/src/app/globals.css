@@ -1,0 +1,97 @@
+@import "tailwindcss";
+
+@theme {
+  /* Premium Dark/Vibrant Palette */
+  --color-primary: #6366F1; /* Indigo */
+  --color-primary-hover: #4F46E5;
+  --color-primary-light: #EEF2FF;
+  --color-primary-text: #4338CA;
+  
+  --color-teal: #0D9488;
+  --color-teal-hover: #0F766E;
+  --color-teal-light: #F0FDFA;
+  
+  --color-cta: #F59E0B; /* Amber */
+  --color-cta-hover: #D97706;
+  --color-cta-light: #FFFBEB;
+  
+  --color-neutral-bg: #F9FAFB;
+  --color-neutral-card: #FFFFFF;
+  --color-neutral-text: #111827;
+  --color-neutral-muted: #6B7280;
+  --color-neutral-border: #E5E7EB;
+
+  --color-success: #10B981;
+  --color-success-light: #ECFDF5;
+  --color-success-text: #059669;
+
+  --color-warning: #F59E0B;
+  --color-warning-light: #FFFBEB;
+  --color-warning-text: #D97706;
+
+  --color-danger: #EF4444;
+  --color-danger-light: #FEF2F2;
+  --color-danger-text: #DC2626;
+
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'Fira Code', monospace;
+
+  --radius-card: 20px;
+  --radius-btn: 12px;
+  --radius-pill: 9999px;
+
+  /* Modern Glass/Soft Shadows */
+  --shadow-card: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --shadow-hero: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  --shadow-cta: 0 4px 14px 0 rgba(245, 158, 11, 0.39);
+}
+
+@layer base {
+  body {
+    background-color: var(--color-neutral-bg);
+    color: var(--color-neutral-text);
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+@layer utilities {
+  .glass-card {
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: var(--radius-card);
+  }
+
+  .premium-gradient {
+    background: linear-gradient(135deg, #6366F1 0%, #A855F7 100%);
+  }
+
+  .animate-float {
+    animation: float 3s ease-in-out infinite;
+  }
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-5px); }
+  }
+
+  .button-interaction {
+    @apply transition-all duration-200 active:scale-95 hover:brightness-110;
+  }
+}
+
+/* Custom Scrollbar for a polished look */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-neutral-border);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-neutral-muted);
+}
+

@@ -1,0 +1,55 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: gigsure-mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    networks:
+      - gigsure-network
+
+  backend:
+    build: ./backend
+    container_name: gigsure-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - MONGO_URL=mongodb://mongodb:27017
+      - ZOMATO_API_URL=http://mock-zomato:8001
+    depends_on:
+      - mongodb
+    networks:
+      - gigsure-network
+
+  frontend:
+    build:
+      context: ./gigsure-frontend
+      args:
+        - NEXT_PUBLIC_API_URL=http://localhost:8000
+    container_name: gigsure-frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:8000
+    depends_on:
+      - backend
+    networks:
+      - gigsure-network
+
+  mock-zomato:
+    build: ./mock_zomato_api
+    container_name: gigsure-mock-zomato
+    ports:
+      - "8001:8001"
+    networks:
+      - gigsure-network
+
+networks:
+  gigsure-network:
+    driver: bridge
+
+volumes:
+  mongodb_data:
