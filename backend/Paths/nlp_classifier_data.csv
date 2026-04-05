@@ -1,0 +1,896 @@
+text,label,confidence
+"New restaurant opens in Koregaon Park, delivery zone expanded.",DISRUPTION,0.584
+"Road blockade by activists in Connaught Place, police advisory issued.",DISRUPTION,0.965
+Local authorities ask residents to stay indoors due to unidentified odor.,NORMAL,0.535
+"Curfew declared in Hitech City after communal clashes, all shops and restaurants closed.",DISRUPTION,0.957
+"Temperature soars to 47°C in Dharavi, heatwave declared.",DISRUPTION,0.96
+Local authorities ask residents to stay indoors due to police drill.,DISRUPTION,0.571
+"Bandh called by trader association in Salt Lake, normal life disrupted.",DISRUPTION,0.931
+Heavy traffic reported in Saket due to ongoing road work.,NORMAL,0.572
+"Cyclone Amphan makes landfall, Koramangala receives red alert.",DISRUPTION,0.96
+"Police conduct routine checks in Park Street, no disruptions reported.",NORMAL,0.914
+Zomato launches new loyalty program for Powai riders.,NORMAL,0.86
+"Curfew declared in Vastrapur after communal clashes, all shops and restaurants closed.",DISRUPTION,1.0
+"Police conduct routine checks in Goregaon, no disruptions reported.",NORMAL,0.917
+"Cyclone Amphan makes landfall, Koregaon Park receives red alert.",DISRUPTION,0.886
+"Weather remains pleasant in Koramangala, high demand for deliveries.",NORMAL,0.895
+"Landslide blocks arterial road in Bandra West, delivery partners stranded.",DISRUPTION,0.953
+"Temperature soars to 46°C in Bandra West, heatwave declared.",DISRUPTION,0.992
+"Police conduct routine checks in Hitech City, no disruptions reported.",NORMAL,0.933
+Zomato launches new loyalty program for Koramangala riders.,NORMAL,0.919
+Construction work on NH48 causes minor delays.,NORMAL,0.905
+"New restaurant opens in Vastrapur, delivery zone expanded.",NORMAL,0.895
+"Curfew declared in Powai after communal clashes, all shops and restaurants closed.",DISRUPTION,0.883
+"AQI crosses 450 in Indiranagar, emergency measures activated.",DISRUPTION,0.92
+"Power outage hits Dharavi for 6 hours, delivery services affected.",DISRUPTION,0.914
+"AQI crosses 450 in Connaught Place, emergency measures activated.",DISRUPTION,0.952
+Local festival Christmas celebrated peacefully in Indiranagar.,NORMAL,0.862
+"Heavy rainfall of 107mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.963
+"Curfew declared in Bandra West after communal clashes, all shops and restaurants closed.",NORMAL,0.448
+Heavy traffic reported in Park Street due to ongoing road work.,NORMAL,0.636
+"Weather alert issued for Indiranagar, but no major impact expected.",DISRUPTION,0.845
+Food safety inspection conducted in Indiranagar restaurants.,DISRUPTION,0.475
+"New restaurant opens in Park Street, delivery zone expanded.",NORMAL,0.907
+RTO issues new guidelines for delivery partners in Koramangala.,NORMAL,0.962
+Zomato launches new loyalty program for Connaught Place riders.,DISRUPTION,0.824
+"New restaurant opens in Salt Lake, delivery zone expanded.",NORMAL,0.973
+"Curfew declared in Connaught Place after communal clashes, all shops and restaurants closed.",DISRUPTION,0.996
+"Power outage hits Koregaon Park for 6 hours, delivery services affected.",DISRUPTION,0.865
+Food safety inspection conducted in Koregaon Park restaurants.,NORMAL,0.96
+Ride-hailing demand increases in Koregaon Park due to metro strike (resolved quickly).,DISRUPTION,0.605
+"Goregaon experiences intermittent connectivity issues, delivery times may vary.",NORMAL,0.654
+"Weather alert issued for Goregaon, but no major impact expected.",DISRUPTION,0.59
+Traffic advisory issued for Salt Lake due to marathon event.,NORMAL,0.903
+Traffic advisory issued for Powai due to marathon event.,NORMAL,0.926
+"Temperature soars to 43°C in Bandra West, heatwave declared.",DISRUPTION,0.867
+"Police conduct routine checks in Saket, no disruptions reported.",DISRUPTION,0.708
+Local festival Eid celebrated peacefully in Saket.,DISRUPTION,0.625
+Ride-hailing demand increases in Bandra West due to metro strike (resolved quickly).,NORMAL,0.871
+Local authorities ask residents to stay indoors due to construction blast.,NORMAL,0.642
+"Road blockade by activists in Dharavi, police advisory issued.",DISRUPTION,0.862
+"Koregaon Park experiences intermittent connectivity issues, delivery times may vary.",NORMAL,0.838
+"Police conduct routine checks in Powai, no disruptions reported.",NORMAL,0.941
+"Power outage hits Park Street for 6 hours, delivery services affected.",NORMAL,0.65
+"Weather remains pleasant in Salt Lake, high demand for deliveries.",NORMAL,0.89
+"Farmers protest blocks highways in Koramangala, markets shut.",DISRUPTION,0.954
+"AQI crosses 450 in Jubilee Hills, emergency measures activated.",DISRUPTION,0.975
+"New restaurant opens in Goregaon, delivery zone expanded.",NORMAL,0.985
+"Vastrapur experiences intermittent connectivity issues, delivery times may vary.",DISRUPTION,0.693
+Traffic advisory issued for Goregaon due to marathon event.,DISRUPTION,0.41
+"Minor scuffle reported in Park Street, police present, normalcy restored.",DISRUPTION,0.663
+Local festival Christmas celebrated peacefully in Andheri East.,NORMAL,0.968
+"Landslide blocks arterial road in Connaught Place, delivery partners stranded.",DISRUPTION,0.898
+"Heavy rainfall of 120mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.948
+"Weather alert issued for Koregaon Park, but no major impact expected.",DISRUPTION,0.508
+Local festival Christmas celebrated peacefully in Goregaon.,NORMAL,0.865
+Heavy traffic reported in Jubilee Hills due to ongoing road work.,NORMAL,0.522
+"Bandh called by political party in Bandra West, normal life disrupted.",DISRUPTION,0.938
+"Road blockade by activists in Bandra West, police advisory issued.",DISRUPTION,0.943
+"Landslide blocks arterial road in Andheri East, delivery partners stranded.",DISRUPTION,0.888
+RTO issues new guidelines for delivery partners in Jubilee Hills.,DISRUPTION,0.739
+Zomato launches new loyalty program for Goregaon riders.,NORMAL,0.87
+"AQI crosses 450 in Hitech City, emergency measures activated.",DISRUPTION,0.985
+Zomato launches new loyalty program for Vastrapur riders.,NORMAL,0.96
+"Heavy rainfall of 121mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.894
+"Bandh called by political party in Goregaon, normal life disrupted.",DISRUPTION,0.881
+Construction work on MG Road causes minor delays.,NORMAL,0.949
+"New restaurant opens in Connaught Place, delivery zone expanded.",NORMAL,0.952
+Traffic advisory issued for Hitech City due to marathon event.,NORMAL,0.956
+Food safety inspection conducted in Jubilee Hills restaurants.,DISRUPTION,0.76
+"Weather alert issued for Bandra West, but no major impact expected.",DISRUPTION,0.78
+Local festival Holi celebrated peacefully in Salt Lake.,NORMAL,0.994
+RTO issues new guidelines for delivery partners in Park Street.,NORMAL,0.95
+"Heavy rainfall of 132mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.992
+Local festival Pongal celebrated peacefully in Vastrapur.,NORMAL,0.934
+"Road blockade by activists in Vastrapur, police advisory issued.",NORMAL,0.403
+"Police conduct routine checks in Connaught Place, no disruptions reported.",NORMAL,0.941
+"AQI crosses 450 in Koramangala, emergency measures activated.",NORMAL,0.528
+"Cyclone Tauktae makes landfall, Hitech City receives red alert.",DISRUPTION,0.95
+Ride-hailing demand increases in Dharavi due to metro strike (resolved quickly).,NORMAL,0.889
+"Heavy rainfall of 54mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.943
+"Temperature soars to 45°C in Vastrapur, heatwave declared.",DISRUPTION,0.942
+"Curfew declared in Andheri East after communal clashes, all shops and restaurants closed.",DISRUPTION,0.907
+Local festival Eid celebrated peacefully in Hitech City.,NORMAL,0.931
+"Cyclone Gulab makes landfall, Salt Lake receives red alert.",DISRUPTION,0.909
+Heavy traffic reported in Dharavi due to ongoing road work.,DISRUPTION,0.738
+"Minor scuffle reported in Salt Lake, police present, normalcy restored.",NORMAL,0.501
+"Temperature soars to 45°C in Koregaon Park, heatwave declared.",DISRUPTION,0.852
+"Curfew declared in Jubilee Hills after communal clashes, all shops and restaurants closed.",DISRUPTION,0.948
+Traffic advisory issued for Bandra West due to marathon event.,NORMAL,0.902
+Ride-hailing demand increases in Saket due to metro strike (resolved quickly).,NORMAL,0.886
+Local festival Diwali celebrated peacefully in Bandra West.,NORMAL,0.954
+Ride-hailing demand increases in Connaught Place due to metro strike (resolved quickly).,NORMAL,0.876
+"Police conduct routine checks in Koramangala, no disruptions reported.",NORMAL,0.983
+"Road blockade by activists in Andheri East, police advisory issued.",DISRUPTION,0.947
+Local festival Diwali celebrated peacefully in Powai.,NORMAL,0.97
+"Power outage hits Indiranagar for 6 hours, delivery services affected.",DISRUPTION,0.916
+"AQI crosses 450 in Powai, emergency measures activated.",DISRUPTION,0.895
+Food safety inspection conducted in Bandra West restaurants.,NORMAL,0.946
+"Farmers protest blocks highways in Indiranagar, markets shut.",NORMAL,0.47
+"Farmers protest blocks highways in Koregaon Park, markets shut.",DISRUPTION,0.94
+Zomato launches new loyalty program for Koregaon Park riders.,NORMAL,0.895
+"Road blockade by activists in Hitech City, police advisory issued.",DISRUPTION,0.933
+"Indiranagar experiences intermittent connectivity issues, delivery times may vary.",DISRUPTION,0.769
+"Cyclone Gulab makes landfall, Connaught Place receives red alert.",DISRUPTION,0.913
+RTO issues new guidelines for delivery partners in Connaught Place.,NORMAL,0.958
+"Police conduct routine checks in Koregaon Park, no disruptions reported.",NORMAL,0.858
+Ride-hailing demand increases in Indiranagar due to metro strike (resolved quickly).,NORMAL,0.989
+"Police conduct routine checks in Salt Lake, no disruptions reported.",DISRUPTION,0.682
+Construction work on Brigade Road causes minor delays.,NORMAL,0.994
+"Temperature soars to 48°C in Andheri East, heatwave declared.",DISRUPTION,0.966
+"Heavy rainfall of 110mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.908
+"Weather remains pleasant in Saket, high demand for deliveries.",NORMAL,0.906
+"Minor scuffle reported in Bandra West, police present, normalcy restored.",DISRUPTION,0.616
+"Bandh called by student union in Andheri East, normal life disrupted.",NORMAL,0.479
+"AQI crosses 450 in Saket, emergency measures activated.",DISRUPTION,0.852
+"Weather remains pleasant in Vastrapur, high demand for deliveries.",NORMAL,0.924
+"Road blockade by activists in Park Street, police advisory issued.",DISRUPTION,0.864
+"Landslide blocks arterial road in Koramangala, delivery partners stranded.",DISRUPTION,0.891
+"Weather alert issued for Koramangala, but no major impact expected.",DISRUPTION,0.814
+Ride-hailing demand increases in Park Street due to metro strike (resolved quickly).,NORMAL,0.942
+"Landslide blocks arterial road in Jubilee Hills, delivery partners stranded.",NORMAL,0.549
+"Police conduct routine checks in Dharavi, no disruptions reported.",NORMAL,0.869
+"New restaurant opens in Saket, delivery zone expanded.",NORMAL,0.863
+RTO issues new guidelines for delivery partners in Powai.,NORMAL,0.965
+"Landslide blocks arterial road in Indiranagar, delivery partners stranded.",DISRUPTION,0.886
+"Temperature soars to 47°C in Salt Lake, heatwave declared.",DISRUPTION,0.864
+Heavy traffic reported in Salt Lake due to ongoing road work.,NORMAL,0.658
+"Heavy rainfall of 120mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.904
+Local festival Eid celebrated peacefully in Goregaon.,NORMAL,0.904
+Heavy traffic reported in Andheri East due to ongoing road work.,DISRUPTION,0.605
+"Curfew declared in Salt Lake after communal clashes, all shops and restaurants closed.",DISRUPTION,0.857
+RTO issues new guidelines for delivery partners in Koregaon Park.,NORMAL,0.968
+"Heavy rainfall of 117mm in Koregaon Park leads to waterlogging, Section 144 imposed.",NORMAL,0.577
+Zomato launches new loyalty program for Dharavi riders.,DISRUPTION,0.493
+"Temperature soars to 48°C in Goregaon, heatwave declared.",DISRUPTION,0.979
+"Bandh called by local residents in Connaught Place, normal life disrupted.",DISRUPTION,0.961
+"Police conduct routine checks in Indiranagar, no disruptions reported.",NORMAL,0.935
+"Heavy rainfall of 143mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.853
+"Curfew declared in Park Street after communal clashes, all shops and restaurants closed.",DISRUPTION,0.871
+"Cyclone Shaheen makes landfall, Koramangala receives red alert.",NORMAL,0.712
+"Road blockade by activists in Powai, police advisory issued.",DISRUPTION,0.956
+Food safety inspection conducted in Koramangala restaurants.,NORMAL,0.989
+"Road blockade by activists in Koramangala, police advisory issued.",DISRUPTION,0.935
+Ride-hailing demand increases in Jubilee Hills due to metro strike (resolved quickly).,NORMAL,0.863
+"Weather alert issued for Connaught Place, but no major impact expected.",NORMAL,0.54
+"New restaurant opens in Dharavi, delivery zone expanded.",NORMAL,0.958
+"Farmers protest blocks highways in Vastrapur, markets shut.",DISRUPTION,0.95
+"Cyclone Amphan makes landfall, Powai receives red alert.",DISRUPTION,0.891
+RTO issues new guidelines for delivery partners in Hitech City.,NORMAL,0.972
+"New restaurant opens in Powai, delivery zone expanded.",NORMAL,0.951
+"Cyclone Amphan makes landfall, Park Street receives red alert.",DISRUPTION,0.979
+"Temperature soars to 45°C in Dharavi, heatwave declared.",DISRUPTION,0.982
+"Heavy rainfall of 67mm in Hitech City leads to waterlogging, Section 144 imposed.",DISRUPTION,0.996
+"Landslide blocks arterial road in Salt Lake, delivery partners stranded.",DISRUPTION,0.853
+Heavy traffic reported in Powai due to ongoing road work.,DISRUPTION,0.672
+"AQI crosses 450 in Vastrapur, emergency measures activated.",DISRUPTION,0.986
+"Temperature soars to 48°C in Bandra West, heatwave declared.",DISRUPTION,0.874
+"Power outage hits Connaught Place for 6 hours, delivery services affected.",DISRUPTION,0.851
+"Temperature soars to 42°C in Bandra West, heatwave declared.",DISRUPTION,0.974
+Ride-hailing demand increases in Koramangala due to metro strike (resolved quickly).,DISRUPTION,0.412
+Food safety inspection conducted in Goregaon restaurants.,NORMAL,0.926
+"Heavy rainfall of 92mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.888
+Heavy traffic reported in Connaught Place due to ongoing road work.,DISRUPTION,0.644
+"Cyclone Gulab makes landfall, Goregaon receives red alert.",DISRUPTION,0.954
+"Temperature soars to 46°C in Hitech City, heatwave declared.",DISRUPTION,0.93
+"Minor scuffle reported in Koramangala, police present, normalcy restored.",NORMAL,0.81
+"Weather remains pleasant in Dharavi, high demand for deliveries.",NORMAL,0.886
+"Power outage hits Jubilee Hills for 6 hours, delivery services affected.",DISRUPTION,0.941
+Food safety inspection conducted in Powai restaurants.,DISRUPTION,0.671
+"Bandh called by local residents in Jubilee Hills, normal life disrupted.",DISRUPTION,0.961
+"Weather remains pleasant in Bandra West, high demand for deliveries.",DISRUPTION,0.513
+"Heavy rainfall of 56mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.978
+Heavy traffic reported in Koregaon Park due to ongoing road work.,DISRUPTION,0.583
+"Heavy rainfall of 73mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.987
+"Weather remains pleasant in Indiranagar, high demand for deliveries.",NORMAL,0.992
+"Landslide blocks arterial road in Goregaon, delivery partners stranded.",DISRUPTION,0.97
+"New restaurant opens in Hitech City, delivery zone expanded.",NORMAL,0.993
+"Bandra West experiences intermittent connectivity issues, delivery times may vary.",DISRUPTION,0.501
+"Heavy rainfall of 148mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.981
+"Cyclone Yaas makes landfall, Bandra West receives red alert.",DISRUPTION,0.966
+Traffic advisory issued for Park Street due to marathon event.,NORMAL,0.927
+Traffic advisory issued for Vastrapur due to marathon event.,NORMAL,0.923
+"Weather alert issued for Dharavi, but no major impact expected.",NORMAL,0.551
+"Temperature soars to 48°C in Koregaon Park, heatwave declared.",NORMAL,0.69
+"Cyclone Shaheen makes landfall, Goregaon receives red alert.",DISRUPTION,0.904
+Ride-hailing demand increases in Salt Lake due to metro strike (resolved quickly).,DISRUPTION,0.677
+"Temperature soars to 42°C in Powai, heatwave declared.",DISRUPTION,0.864
+"Minor scuffle reported in Saket, police present, normalcy restored.",NORMAL,0.625
+"Heavy rainfall of 43mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.982
+"Cyclone Amphan makes landfall, Andheri East receives red alert.",DISRUPTION,0.92
+"Bandh called by political party in Powai, normal life disrupted.",DISRUPTION,0.908
+"Power outage hits Hitech City for 6 hours, delivery services affected.",DISRUPTION,0.931
+"Landslide blocks arterial road in Hitech City, delivery partners stranded.",DISRUPTION,0.99
+"New restaurant opens in Jubilee Hills, delivery zone expanded.",NORMAL,0.954
+Food safety inspection conducted in Dharavi restaurants.,NORMAL,0.98
+"Bandh called by student union in Dharavi, normal life disrupted.",DISRUPTION,0.939
+"Power outage hits Powai for 6 hours, delivery services affected.",DISRUPTION,0.997
+"Curfew declared in Dharavi after communal clashes, all shops and restaurants closed.",DISRUPTION,0.871
+Local festival Diwali celebrated peacefully in Hitech City.,NORMAL,0.858
+"Heavy rainfall of 34mm in Koramangala leads to waterlogging, Section 144 imposed.",DISRUPTION,0.908
+"Bandh called by trader association in Park Street, normal life disrupted.",DISRUPTION,0.874
+"Farmers protest blocks highways in Goregaon, markets shut.",NORMAL,0.773
+"Connaught Place experiences intermittent connectivity issues, delivery times may vary.",NORMAL,0.578
+Local festival Eid celebrated peacefully in Indiranagar.,NORMAL,0.884
+"Cyclone Amphan makes landfall, Bandra West receives red alert.",NORMAL,0.594
+"Road blockade by activists in Indiranagar, police advisory issued.",DISRUPTION,0.861
+"Heavy rainfall of 133mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.903
+"Power outage hits Goregaon for 6 hours, delivery services affected.",DISRUPTION,0.996
+"Road blockade by activists in Saket, police advisory issued.",DISRUPTION,0.858
+"Landslide blocks arterial road in Koregaon Park, delivery partners stranded.",DISRUPTION,0.991
+"AQI crosses 450 in Goregaon, emergency measures activated.",DISRUPTION,0.978
+"Farmers protest blocks highways in Powai, markets shut.",DISRUPTION,0.983
+"Heavy rainfall of 124mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.889
+"Weather alert issued for Hitech City, but no major impact expected.",NORMAL,0.746
+Food safety inspection conducted in Hitech City restaurants.,NORMAL,0.927
+"Police conduct routine checks in Vastrapur, no disruptions reported.",NORMAL,0.903
+"Heavy rainfall of 128mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",NORMAL,0.773
+"Weather remains pleasant in Hitech City, high demand for deliveries.",NORMAL,0.898
+"Temperature soars to 48°C in Park Street, heatwave declared.",NORMAL,0.807
+"Curfew declared in Koregaon Park after communal clashes, all shops and restaurants closed.",DISRUPTION,0.993
+"Bandh called by trader association in Hitech City, normal life disrupted.",DISRUPTION,0.912
+"Farmers protest blocks highways in Dharavi, markets shut.",DISRUPTION,0.97
+"Weather alert issued for Jubilee Hills, but no major impact expected.",DISRUPTION,0.632
+"Temperature soars to 45°C in Andheri East, heatwave declared.",DISRUPTION,0.935
+"Weather alert issued for Vastrapur, but no major impact expected.",DISRUPTION,0.593
+"Road blockade by activists in Salt Lake, police advisory issued.",DISRUPTION,0.859
+Local festival Holi celebrated peacefully in Connaught Place.,NORMAL,0.996
+"Cyclone Tauktae makes landfall, Indiranagar receives red alert.",DISRUPTION,0.863
+"Landslide blocks arterial road in Vastrapur, delivery partners stranded.",DISRUPTION,0.948
+"Heavy rainfall of 118mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.919
+"Farmers protest blocks highways in Park Street, markets shut.",DISRUPTION,0.951
+Local festival Christmas celebrated peacefully in Hitech City.,NORMAL,0.856
+"New restaurant opens in Andheri East, delivery zone expanded.",NORMAL,0.988
+Heavy traffic reported in Bandra West due to ongoing road work.,DISRUPTION,0.639
+"Dharavi experiences intermittent connectivity issues, delivery times may vary.",DISRUPTION,0.513
+"Temperature soars to 42°C in Vastrapur, heatwave declared.",NORMAL,0.723
+"Landslide blocks arterial road in Saket, delivery partners stranded.",DISRUPTION,0.985
+Heavy traffic reported in Goregaon due to ongoing road work.,DISRUPTION,0.607
+Ride-hailing demand increases in Vastrapur due to metro strike (resolved quickly).,NORMAL,0.899
+"Weather remains pleasant in Koregaon Park, high demand for deliveries.",DISRUPTION,0.544
+"Cyclone Amphan makes landfall, Vastrapur receives red alert.",DISRUPTION,0.985
+"Jubilee Hills experiences intermittent connectivity issues, delivery times may vary.",DISRUPTION,0.832
+"Bandh called by student union in Indiranagar, normal life disrupted.",DISRUPTION,0.887
+"Heavy rainfall of 41mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.954
+"Road blockade by activists in Goregaon, police advisory issued.",DISRUPTION,0.896
+RTO issues new guidelines for delivery partners in Saket.,DISRUPTION,0.405
+"Heavy rainfall of 136mm in Vastrapur leads to waterlogging, Section 144 imposed.",NORMAL,0.795
+"Power outage hits Bandra West for 6 hours, delivery services affected.",DISRUPTION,0.935
+RTO issues new guidelines for delivery partners in Dharavi.,NORMAL,0.902
+"Landslide blocks arterial road in Powai, delivery partners stranded.",DISRUPTION,0.945
+Food safety inspection conducted in Park Street restaurants.,DISRUPTION,0.527
+Traffic advisory issued for Jubilee Hills due to marathon event.,NORMAL,0.854
+Local festival Holi celebrated peacefully in Bandra West.,NORMAL,0.896
+"Bandh called by local residents in Hitech City, normal life disrupted.",DISRUPTION,0.972
+"Salt Lake experiences intermittent connectivity issues, delivery times may vary.",NORMAL,0.552
+Local festival Pongal celebrated peacefully in Koregaon Park.,NORMAL,0.932
+"Park Street experiences intermittent connectivity issues, delivery times may vary.",DISRUPTION,0.669
+"AQI crosses 450 in Salt Lake, emergency measures activated.",DISRUPTION,0.891
+"Temperature soars to 47°C in Connaught Place, heatwave declared.",DISRUPTION,0.988
+"New restaurant opens in Indiranagar, delivery zone expanded.",NORMAL,0.88
+"Police conduct routine checks in Andheri East, no disruptions reported.",NORMAL,0.905
+"AQI crosses 450 in Bandra West, emergency measures activated.",DISRUPTION,0.963
+Food safety inspection conducted in Andheri East restaurants.,NORMAL,0.975
+"Heavy rainfall of 73mm in Connaught Place leads to waterlogging, Section 144 imposed.",DISRUPTION,0.884
+Construction work on Western Express Highway causes minor delays.,DISRUPTION,0.524
+"Bandh called by trader association in Jubilee Hills, normal life disrupted.",DISRUPTION,0.986
+Zomato launches new loyalty program for Park Street riders.,DISRUPTION,0.609
+"Cyclone Yaas makes landfall, Andheri East receives red alert.",DISRUPTION,0.873
+"Power outage hits Salt Lake for 6 hours, delivery services affected.",NORMAL,0.478
+Local festival Holi celebrated peacefully in Dharavi.,NORMAL,0.973
+"Cyclone Amphan makes landfall, Saket receives red alert.",NORMAL,0.546
+Local festival Christmas celebrated peacefully in Salt Lake.,NORMAL,0.968
+"Bandh called by local residents in Andheri East, normal life disrupted.",DISRUPTION,0.979
+"Weather remains pleasant in Jubilee Hills, high demand for deliveries.",NORMAL,0.932
+"Temperature soars to 46°C in Koramangala, heatwave declared.",NORMAL,0.779
+Heavy traffic reported in Koramangala due to ongoing road work.,DISRUPTION,0.765
+"Andheri East experiences intermittent connectivity issues, delivery times may vary.",NORMAL,0.635
+"Weather alert issued for Andheri East, but no major impact expected.",DISRUPTION,0.751
+"Farmers protest blocks highways in Jubilee Hills, markets shut.",DISRUPTION,0.868
+"Landslide blocks arterial road in Park Street, delivery partners stranded.",DISRUPTION,0.863
+"Weather alert issued for Saket, but no major impact expected.",DISRUPTION,0.527
+"Farmers protest blocks highways in Andheri East, markets shut.",NORMAL,0.627
+"Weather remains pleasant in Andheri East, high demand for deliveries.",NORMAL,0.985
+Food safety inspection conducted in Salt Lake restaurants.,NORMAL,0.936
+"Farmers protest blocks highways in Connaught Place, markets shut.",DISRUPTION,0.913
+"Bandh called by local residents in Bandra West, normal life disrupted.",DISRUPTION,0.87
+"Bandh called by student union in Park Street, normal life disrupted.",DISRUPTION,0.875
+"Minor scuffle reported in Powai, police present, normalcy restored.",NORMAL,0.572
+"Temperature soars to 43°C in Jubilee Hills, heatwave declared.",DISRUPTION,0.912
+Local festival Diwali celebrated peacefully in Goregaon.,NORMAL,0.885
+Food safety inspection conducted in Connaught Place restaurants.,NORMAL,0.899
+"Temperature soars to 45°C in Saket, heatwave declared.",NORMAL,0.822
+"Cyclone Gulab makes landfall, Hitech City receives red alert.",DISRUPTION,0.906
+"Police conduct routine checks in Jubilee Hills, no disruptions reported.",NORMAL,0.913
+"AQI crosses 450 in Park Street, emergency measures activated.",DISRUPTION,0.97
+"Bandh called by local residents in Salt Lake, normal life disrupted.",DISRUPTION,0.913
+"Bandh called by political party in Jubilee Hills, normal life disrupted.",DISRUPTION,0.982
+"Curfew declared in Saket after communal clashes, all shops and restaurants closed.",NORMAL,0.482
+Local festival Holi celebrated peacefully in Park Street.,NORMAL,0.972
+Traffic advisory issued for Indiranagar due to marathon event.,DISRUPTION,0.575
+"Temperature soars to 46°C in Saket, heatwave declared.",NORMAL,0.835
+RTO issues new guidelines for delivery partners in Salt Lake.,NORMAL,0.96
+"Cyclone Shaheen makes landfall, Hitech City receives red alert.",DISRUPTION,0.875
+"Minor scuffle reported in Connaught Place, police present, normalcy restored.",NORMAL,0.553
+Zomato launches new loyalty program for Jubilee Hills riders.,NORMAL,0.884
+"New restaurant opens in Bandra West, delivery zone expanded.",DISRUPTION,0.783
+Traffic advisory issued for Koregaon Park due to marathon event.,NORMAL,0.876
+"Temperature soars to 45°C in Salt Lake, heatwave declared.",DISRUPTION,0.981
+"Heavy rainfall of 140mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.959
+"Cyclone Gulab makes landfall, Koramangala receives red alert.",DISRUPTION,0.858
+Food safety inspection conducted in Vastrapur restaurants.,NORMAL,0.953
+"Heavy rainfall of 51mm in Bandra West leads to waterlogging, Section 144 imposed.",NORMAL,0.685
+"Weather alert issued for Park Street, but no major impact expected.",NORMAL,0.67
+"Temperature soars to 48°C in Koramangala, heatwave declared.",NORMAL,0.778
+"Heavy rainfall of 101mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.873
+"Weather alert issued for Powai, but no major impact expected.",NORMAL,0.806
+"Road blockade by activists in Koregaon Park, police advisory issued.",DISRUPTION,0.914
+"Temperature soars to 47°C in Koregaon Park, heatwave declared.",DISRUPTION,0.915
+"Cyclone Shaheen makes landfall, Bandra West receives red alert.",DISRUPTION,0.986
+Ride-hailing demand increases in Andheri East due to metro strike (resolved quickly).,NORMAL,0.904
+"Power outage hits Saket for 6 hours, delivery services affected.",DISRUPTION,0.992
+Local festival Eid celebrated peacefully in Andheri East.,NORMAL,0.882
+"Temperature soars to 47°C in Indiranagar, heatwave declared.",DISRUPTION,0.939
+Traffic advisory issued for Connaught Place due to marathon event.,NORMAL,0.901
+"AQI crosses 450 in Koregaon Park, emergency measures activated.",NORMAL,0.658
+"Hitech City experiences intermittent connectivity issues, delivery times may vary.",NORMAL,0.566
+Heavy traffic reported in Vastrapur due to ongoing road work.,NORMAL,0.641
+"Heavy rainfall of 100mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.862
+"Heavy rainfall of 31mm in Connaught Place leads to waterlogging, Section 144 imposed.",DISRUPTION,0.902
+"Bandh called by local residents in Saket, normal life disrupted.",DISRUPTION,0.894
+Ride-hailing demand increases in Powai due to metro strike (resolved quickly).,NORMAL,0.975
+"Heavy rainfall of 77mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.888
+Traffic advisory issued for Koramangala due to marathon event.,NORMAL,0.91
+"Heavy rainfall of 77mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.909
+"Weather remains pleasant in Powai, high demand for deliveries.",NORMAL,0.923
+"Heavy rainfall of 145mm in Salt Lake leads to waterlogging, Section 144 imposed.",NORMAL,0.832
+"Police conduct routine checks in Bandra West, no disruptions reported.",NORMAL,0.887
+"Heavy rainfall of 36mm in Andheri East leads to waterlogging, Section 144 imposed.",NORMAL,0.715
+"Temperature soars to 48°C in Saket, heatwave declared.",DISRUPTION,0.971
+"Power outage hits Vastrapur for 6 hours, delivery services affected.",DISRUPTION,0.905
+"Minor scuffle reported in Indiranagar, police present, normalcy restored.",NORMAL,0.694
+Food safety inspection conducted in Saket restaurants.,NORMAL,0.885
+"Bandh called by trader association in Connaught Place, normal life disrupted.",NORMAL,0.609
+"Bandh called by trader association in Koramangala, normal life disrupted.",NORMAL,0.693
+"Weather remains pleasant in Goregaon, high demand for deliveries.",NORMAL,0.866
+"Heavy rainfall of 134mm in Dharavi leads to waterlogging, Section 144 imposed.",NORMAL,0.558
+"Curfew declared in Indiranagar after communal clashes, all shops and restaurants closed.",DISRUPTION,0.953
+Zomato launches new loyalty program for Andheri East riders.,NORMAL,0.959
+Traffic advisory issued for Saket due to marathon event.,NORMAL,0.889
+"Road blockade by activists in Jubilee Hills, police advisory issued.",DISRUPTION,0.875
+"Heavy rainfall of 115mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.85
+Local festival Holi celebrated peacefully in Jubilee Hills.,NORMAL,0.971
+"Heavy rainfall of 78mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.974
+Traffic advisory issued for Andheri East due to marathon event.,DISRUPTION,0.582
+Local festival Holi celebrated peacefully in Saket.,NORMAL,0.914
+Zomato launches new loyalty program for Bandra West riders.,NORMAL,0.861
+"Cyclone Tauktae makes landfall, Powai receives red alert.",DISRUPTION,0.943
+"Bandh called by trader association in Powai, normal life disrupted.",DISRUPTION,0.994
+"New restaurant opens in Koramangala, delivery zone expanded.",NORMAL,0.947
+"Temperature soars to 43°C in Goregaon, heatwave declared.",DISRUPTION,0.879
+Local festival Eid celebrated peacefully in Koramangala.,NORMAL,0.969
+Local festival Christmas celebrated peacefully in Powai.,NORMAL,0.973
+"Heavy rainfall of 142mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.978
+"Farmers protest blocks highways in Bandra West, markets shut.",DISRUPTION,0.918
+"Bandh called by student union in Vastrapur, normal life disrupted.",DISRUPTION,0.899
+"Temperature soars to 45°C in Indiranagar, heatwave declared.",DISRUPTION,0.991
+"Curfew declared in Koramangala after communal clashes, all shops and restaurants closed.",DISRUPTION,0.901
+"Curfew declared in Goregaon after communal clashes, all shops and restaurants closed.",DISRUPTION,0.955
+Local festival Diwali celebrated peacefully in Dharavi.,NORMAL,0.901
+"Heavy rainfall of 56mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.952
+"Cyclone Amphan makes landfall, Jubilee Hills receives red alert.",DISRUPTION,0.996
+"Power outage hits Andheri East for 6 hours, delivery services affected.",DISRUPTION,0.977
+"Minor scuffle reported in Dharavi, police present, normalcy restored.",NORMAL,0.809
+"Bandh called by local residents in Koramangala, normal life disrupted.",DISRUPTION,0.936
+"Minor scuffle reported in Hitech City, police present, normalcy restored.",NORMAL,0.821
+Ride-hailing demand increases in Goregaon due to metro strike (resolved quickly).,NORMAL,0.998
+"AQI crosses 450 in Andheri East, emergency measures activated.",DISRUPTION,0.939
+Local festival Eid celebrated peacefully in Jubilee Hills.,NORMAL,0.939
+"Heavy rainfall of 113mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.89
+"Heavy rainfall of 74mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.869
+Local festival Holi celebrated peacefully in Powai.,NORMAL,0.87
+"Temperature soars to 42°C in Koramangala, heatwave declared.",DISRUPTION,0.896
+"Bandh called by student union in Koregaon Park, normal life disrupted.",DISRUPTION,0.996
+"Weather alert issued for Salt Lake, but no major impact expected.",NORMAL,0.819
+"Heavy rainfall of 49mm in Connaught Place leads to waterlogging, Section 144 imposed.",DISRUPTION,0.872
+"Temperature soars to 44°C in Jubilee Hills, heatwave declared.",DISRUPTION,0.877
+"Power outage hits Koramangala for 6 hours, delivery services affected.",DISRUPTION,0.866
+"Temperature soars to 44°C in Indiranagar, heatwave declared.",DISRUPTION,0.919
+"Temperature soars to 44°C in Park Street, heatwave declared.",DISRUPTION,0.971
+"Temperature soars to 45°C in Jubilee Hills, heatwave declared.",DISRUPTION,0.871
+"Weather remains pleasant in Connaught Place, high demand for deliveries.",NORMAL,0.865
+Zomato launches new loyalty program for Hitech City riders.,NORMAL,0.989
+"Temperature soars to 43°C in Dharavi, heatwave declared.",DISRUPTION,0.924
+"Temperature soars to 46°C in Powai, heatwave declared.",DISRUPTION,0.902
+Traffic advisory issued for Dharavi due to marathon event.,NORMAL,0.968
+"Bandh called by student union in Jubilee Hills, normal life disrupted.",NORMAL,0.548
+"Heavy rainfall of 41mm in Koramangala leads to waterlogging, Section 144 imposed.",DISRUPTION,0.852
+"Farmers protest blocks highways in Salt Lake, markets shut.",DISRUPTION,0.912
+"Temperature soars to 47°C in Jubilee Hills, heatwave declared.",DISRUPTION,0.941
+"Heavy rainfall of 43mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.943
+"Heavy rainfall of 33mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.916
+RTO issues new guidelines for delivery partners in Bandra West.,NORMAL,0.93
+"Cyclone Yaas makes landfall, Goregaon receives red alert.",DISRUPTION,0.858
+"Minor scuffle reported in Andheri East, police present, normalcy restored.",DISRUPTION,0.839
+"Temperature soars to 44°C in Hitech City, heatwave declared.",DISRUPTION,0.968
+"Cyclone Tauktae makes landfall, Connaught Place receives red alert.",NORMAL,0.743
+"Heavy rainfall of 96mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.913
+"Heavy rainfall of 92mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.99
+"Heavy rainfall of 144mm in Dharavi leads to waterlogging, Section 144 imposed.",NORMAL,0.534
+"Temperature soars to 45°C in Powai, heatwave declared.",DISRUPTION,0.87
+"Cyclone Shaheen makes landfall, Jubilee Hills receives red alert.",DISRUPTION,0.945
+"Cyclone Shaheen makes landfall, Koregaon Park receives red alert.",DISRUPTION,0.862
+"Heavy rainfall of 114mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.936
+"Heavy rainfall of 88mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.878
+"Cyclone Shaheen makes landfall, Saket receives red alert.",DISRUPTION,0.879
+"Minor scuffle reported in Vastrapur, police present, normalcy restored.",DISRUPTION,0.821
+"Cyclone Gulab makes landfall, Vastrapur receives red alert.",DISRUPTION,0.908
+Zomato launches new loyalty program for Indiranagar riders.,NORMAL,0.969
+Heavy traffic reported in Hitech City due to ongoing road work.,NORMAL,0.704
+"Temperature soars to 45°C in Connaught Place, heatwave declared.",DISRUPTION,0.93
+"AQI crosses 450 in Dharavi, emergency measures activated.",NORMAL,0.631
+"Heavy rainfall of 82mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.95
+"Heavy rainfall of 135mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.976
+Local festival Pongal celebrated peacefully in Jubilee Hills.,NORMAL,0.869
+Local festival Eid celebrated peacefully in Vastrapur.,NORMAL,0.867
+"Temperature soars to 42°C in Andheri East, heatwave declared.",DISRUPTION,0.958
+Local festival Holi celebrated peacefully in Goregaon.,NORMAL,0.872
+"Cyclone Shaheen makes landfall, Salt Lake receives red alert.",DISRUPTION,0.887
+Local festival Pongal celebrated peacefully in Bandra West.,NORMAL,0.997
+"Cyclone Yaas makes landfall, Hitech City receives red alert.",DISRUPTION,0.914
+Local festival Diwali celebrated peacefully in Connaught Place.,NORMAL,0.944
+"Farmers protest blocks highways in Saket, markets shut.",DISRUPTION,0.984
+"Bandh called by political party in Park Street, normal life disrupted.",DISRUPTION,0.937
+"Cyclone Tauktae makes landfall, Koregaon Park receives red alert.",DISRUPTION,0.957
+"Cyclone Shaheen makes landfall, Vastrapur receives red alert.",DISRUPTION,0.896
+"Cyclone Gulab makes landfall, Powai receives red alert.",DISRUPTION,0.957
+Local festival Diwali celebrated peacefully in Koregaon Park.,DISRUPTION,0.565
+"Bandh called by trader association in Indiranagar, normal life disrupted.",DISRUPTION,0.898
+Local festival Eid celebrated peacefully in Koregaon Park.,NORMAL,0.933
+"Temperature soars to 42°C in Connaught Place, heatwave declared.",NORMAL,0.702
+"Minor scuffle reported in Jubilee Hills, police present, normalcy restored.",NORMAL,0.773
+Local festival Christmas celebrated peacefully in Dharavi.,NORMAL,0.853
+Local festival Christmas celebrated peacefully in Bandra West.,DISRUPTION,0.745
+"Cyclone Shaheen makes landfall, Indiranagar receives red alert.",DISRUPTION,0.979
+"Temperature soars to 42°C in Goregaon, heatwave declared.",DISRUPTION,0.853
+"Temperature soars to 48°C in Indiranagar, heatwave declared.",DISRUPTION,0.916
+Local festival Pongal celebrated peacefully in Goregaon.,NORMAL,0.95
+Local festival Eid celebrated peacefully in Dharavi.,NORMAL,0.996
+"Temperature soars to 47°C in Andheri East, heatwave declared.",DISRUPTION,0.853
+"Heavy rainfall of 76mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.879
+"Heavy rainfall of 49mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.982
+"Heavy rainfall of 70mm in Connaught Place leads to waterlogging, Section 144 imposed.",DISRUPTION,0.925
+"Landslide blocks arterial road in Dharavi, delivery partners stranded.",DISRUPTION,0.925
+"Heavy rainfall of 126mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.852
+"Temperature soars to 44°C in Vastrapur, heatwave declared.",DISRUPTION,0.889
+RTO issues new guidelines for delivery partners in Indiranagar.,NORMAL,0.943
+"Temperature soars to 45°C in Park Street, heatwave declared.",DISRUPTION,0.859
+"Heavy rainfall of 52mm in Bandra West leads to waterlogging, Section 144 imposed.",NORMAL,0.435
+Zomato launches new loyalty program for Saket riders.,NORMAL,0.99
+"Cyclone Yaas makes landfall, Powai receives red alert.",DISRUPTION,0.96
+"Cyclone Gulab makes landfall, Park Street receives red alert.",DISRUPTION,0.905
+Local festival Pongal celebrated peacefully in Powai.,NORMAL,0.951
+"Bandh called by trader association in Goregaon, normal life disrupted.",NORMAL,0.451
+"Bandh called by student union in Powai, normal life disrupted.",DISRUPTION,0.992
+"Bandh called by political party in Koregaon Park, normal life disrupted.",DISRUPTION,0.91
+RTO issues new guidelines for delivery partners in Vastrapur.,DISRUPTION,0.502
+"Temperature soars to 45°C in Hitech City, heatwave declared.",DISRUPTION,0.991
+Local festival Holi celebrated peacefully in Andheri East.,NORMAL,0.923
+"Temperature soars to 46°C in Vastrapur, heatwave declared.",NORMAL,0.509
+"Weather remains pleasant in Park Street, high demand for deliveries.",NORMAL,0.979
+"Heavy rainfall of 103mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.938
+Ride-hailing demand increases in Hitech City due to metro strike (resolved quickly).,NORMAL,0.985
+"Temperature soars to 48°C in Salt Lake, heatwave declared.",NORMAL,0.549
+"Powai experiences intermittent connectivity issues, delivery times may vary.",NORMAL,0.675
+"Temperature soars to 44°C in Koregaon Park, heatwave declared.",DISRUPTION,0.897
+"Heavy rainfall of 62mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.98
+RTO issues new guidelines for delivery partners in Andheri East.,NORMAL,0.911
+"Cyclone Gulab makes landfall, Bandra West receives red alert.",DISRUPTION,0.988
+"Heavy rainfall of 136mm in Goregaon leads to waterlogging, Section 144 imposed.",NORMAL,0.839
+"Minor scuffle reported in Goregaon, police present, normalcy restored.",NORMAL,0.677
+"Heavy rainfall of 46mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.874
+Heavy traffic reported in Indiranagar due to ongoing road work.,DISRUPTION,0.65
+"Koramangala experiences intermittent connectivity issues, delivery times may vary.",DISRUPTION,0.583
+"Temperature soars to 45°C in Bandra West, heatwave declared.",DISRUPTION,0.91
+"Heavy rainfall of 91mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.902
+"Heavy rainfall of 60mm in Connaught Place leads to waterlogging, Section 144 imposed.",NORMAL,0.674
+"Temperature soars to 45°C in Koramangala, heatwave declared.",DISRUPTION,0.965
+"Cyclone Tauktae makes landfall, Koramangala receives red alert.",DISRUPTION,0.863
+"Temperature soars to 47°C in Powai, heatwave declared.",NORMAL,0.641
+"Heavy rainfall of 150mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.998
+"Farmers protest blocks highways in Hitech City, markets shut.",DISRUPTION,0.955
+"Heavy rainfall of 95mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.979
+RTO issues new guidelines for delivery partners in Goregaon.,NORMAL,0.865
+"Temperature soars to 44°C in Bandra West, heatwave declared.",DISRUPTION,0.978
+"Heavy rainfall of 93mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.856
+"Cyclone Gulab makes landfall, Indiranagar receives red alert.",NORMAL,0.592
+"Bandh called by student union in Hitech City, normal life disrupted.",DISRUPTION,0.955
+"Bandh called by student union in Connaught Place, normal life disrupted.",DISRUPTION,0.913
+"Cyclone Yaas makes landfall, Salt Lake receives red alert.",DISRUPTION,0.866
+"Heavy rainfall of 127mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.915
+"Temperature soars to 47°C in Bandra West, heatwave declared.",DISRUPTION,0.89
+"Heavy rainfall of 48mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.872
+"Temperature soars to 43°C in Indiranagar, heatwave declared.",DISRUPTION,0.872
+Local festival Eid celebrated peacefully in Connaught Place.,DISRUPTION,0.715
+"Cyclone Yaas makes landfall, Koramangala receives red alert.",DISRUPTION,0.974
+"Heavy rainfall of 44mm in Dharavi leads to waterlogging, Section 144 imposed.",DISRUPTION,0.917
+"Heavy rainfall of 57mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.884
+"Heavy rainfall of 73mm in Dharavi leads to waterlogging, Section 144 imposed.",DISRUPTION,0.889
+"Temperature soars to 46°C in Dharavi, heatwave declared.",DISRUPTION,0.88
+Local festival Diwali celebrated peacefully in Vastrapur.,NORMAL,0.932
+"Heavy rainfall of 38mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.931
+Local festival Christmas celebrated peacefully in Vastrapur.,NORMAL,0.903
+"Cyclone Tauktae makes landfall, Andheri East receives red alert.",DISRUPTION,0.857
+"Bandh called by trader association in Bandra West, normal life disrupted.",NORMAL,0.608
+"Temperature soars to 45°C in Goregaon, heatwave declared.",DISRUPTION,0.995
+Local festival Holi celebrated peacefully in Hitech City.,NORMAL,0.863
+"Saket experiences intermittent connectivity issues, delivery times may vary.",DISRUPTION,0.802
+Local festival Holi celebrated peacefully in Vastrapur.,NORMAL,0.978
+"Heavy rainfall of 101mm in Andheri East leads to waterlogging, Section 144 imposed.",NORMAL,0.543
+Zomato launches new loyalty program for Salt Lake riders.,NORMAL,0.887
+"Bandh called by local residents in Dharavi, normal life disrupted.",DISRUPTION,0.893
+"Heavy rainfall of 66mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.933
+"Cyclone Tauktae makes landfall, Goregaon receives red alert.",NORMAL,0.602
+Local festival Pongal celebrated peacefully in Saket.,NORMAL,0.95
+"Cyclone Tauktae makes landfall, Vastrapur receives red alert.",DISRUPTION,0.931
+"Heavy rainfall of 99mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.858
+"Heavy rainfall of 123mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.929
+"Cyclone Amphan makes landfall, Goregaon receives red alert.",DISRUPTION,0.937
+"Minor scuffle reported in Koregaon Park, police present, normalcy restored.",DISRUPTION,0.609
+Local festival Eid celebrated peacefully in Park Street.,NORMAL,0.918
+"Cyclone Tauktae makes landfall, Bandra West receives red alert.",DISRUPTION,0.909
+"Cyclone Amphan makes landfall, Hitech City receives red alert.",DISRUPTION,0.999
+"Heavy rainfall of 144mm in Connaught Place leads to waterlogging, Section 144 imposed.",DISRUPTION,0.978
+"Bandh called by political party in Hitech City, normal life disrupted.",DISRUPTION,0.973
+"Heavy rainfall of 97mm in Koramangala leads to waterlogging, Section 144 imposed.",DISRUPTION,0.982
+"Temperature soars to 46°C in Park Street, heatwave declared.",DISRUPTION,0.929
+"Temperature soars to 43°C in Park Street, heatwave declared.",DISRUPTION,0.885
+"Cyclone Yaas makes landfall, Vastrapur receives red alert.",DISRUPTION,0.967
+"Temperature soars to 42°C in Dharavi, heatwave declared.",DISRUPTION,0.911
+"Heavy rainfall of 66mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.995
+"Bandh called by political party in Vastrapur, normal life disrupted.",NORMAL,0.533
+"Bandh called by student union in Salt Lake, normal life disrupted.",DISRUPTION,0.938
+"Heavy rainfall of 32mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.957
+"Heavy rainfall of 101mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.94
+"Heavy rainfall of 50mm in Connaught Place leads to waterlogging, Section 144 imposed.",DISRUPTION,0.884
+"Temperature soars to 44°C in Powai, heatwave declared.",DISRUPTION,0.964
+"Heavy rainfall of 123mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.992
+"Cyclone Tauktae makes landfall, Park Street receives red alert.",DISRUPTION,0.961
+"Temperature soars to 43°C in Powai, heatwave declared.",NORMAL,0.623
+"Temperature soars to 42°C in Park Street, heatwave declared.",DISRUPTION,0.96
+"Bandh called by political party in Andheri East, normal life disrupted.",DISRUPTION,0.96
+"Temperature soars to 43°C in Vastrapur, heatwave declared.",DISRUPTION,0.891
+"Heavy rainfall of 122mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.971
+"Temperature soars to 43°C in Connaught Place, heatwave declared.",NORMAL,0.423
+"Temperature soars to 44°C in Dharavi, heatwave declared.",DISRUPTION,0.867
+"Heavy rainfall of 72mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.93
+"Heavy rainfall of 89mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.938
+Local festival Pongal celebrated peacefully in Park Street.,DISRUPTION,0.656
+"Heavy rainfall of 109mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.894
+"Heavy rainfall of 109mm in Hitech City leads to waterlogging, Section 144 imposed.",DISRUPTION,0.87
+Local festival Christmas celebrated peacefully in Jubilee Hills.,NORMAL,0.896
+"Cyclone Amphan makes landfall, Dharavi receives red alert.",DISRUPTION,0.999
+"Heavy rainfall of 62mm in Salt Lake leads to waterlogging, Section 144 imposed.",NORMAL,0.447
+"Heavy rainfall of 114mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.959
+"Bandh called by trader association in Saket, normal life disrupted.",DISRUPTION,0.991
+"Heavy rainfall of 114mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.937
+Local festival Eid celebrated peacefully in Powai.,NORMAL,0.934
+Local festival Diwali celebrated peacefully in Jubilee Hills.,NORMAL,0.856
+"Cyclone Gulab makes landfall, Dharavi receives red alert.",DISRUPTION,0.873
+"Cyclone Yaas makes landfall, Park Street receives red alert.",DISRUPTION,0.968
+"Bandh called by political party in Saket, normal life disrupted.",NORMAL,0.837
+"Bandh called by student union in Koramangala, normal life disrupted.",DISRUPTION,0.931
+"Cyclone Gulab makes landfall, Jubilee Hills receives red alert.",DISRUPTION,0.892
+"Heavy rainfall of 80mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.861
+"Cyclone Yaas makes landfall, Dharavi receives red alert.",DISRUPTION,0.872
+"Bandh called by political party in Indiranagar, normal life disrupted.",DISRUPTION,0.981
+"Cyclone Tauktae makes landfall, Saket receives red alert.",DISRUPTION,0.855
+"Bandh called by political party in Connaught Place, normal life disrupted.",DISRUPTION,0.91
+"Cyclone Shaheen makes landfall, Powai receives red alert.",DISRUPTION,0.946
+Local festival Diwali celebrated peacefully in Indiranagar.,NORMAL,0.961
+"Heavy rainfall of 128mm in Hitech City leads to waterlogging, Section 144 imposed.",DISRUPTION,0.96
+"Heavy rainfall of 111mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.954
+"Heavy rainfall of 128mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.908
+"Cyclone Gulab makes landfall, Koregaon Park receives red alert.",DISRUPTION,0.913
+"Heavy rainfall of 132mm in Park Street leads to waterlogging, Section 144 imposed.",NORMAL,0.716
+"Heavy rainfall of 118mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.9
+"Heavy rainfall of 144mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.954
+"Heavy rainfall of 105mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.851
+"Heavy rainfall of 97mm in Hitech City leads to waterlogging, Section 144 imposed.",NORMAL,0.611
+Local festival Pongal celebrated peacefully in Hitech City.,DISRUPTION,0.778
+"Heavy rainfall of 99mm in Dharavi leads to waterlogging, Section 144 imposed.",DISRUPTION,0.973
+"Temperature soars to 46°C in Goregaon, heatwave declared.",DISRUPTION,0.919
+"Heavy rainfall of 72mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",NORMAL,0.566
+"Heavy rainfall of 146mm in Dharavi leads to waterlogging, Section 144 imposed.",DISRUPTION,0.869
+"Heavy rainfall of 147mm in Salt Lake leads to waterlogging, Section 144 imposed.",NORMAL,0.804
+"Heavy rainfall of 88mm in Bandra West leads to waterlogging, Section 144 imposed.",DISRUPTION,0.904
+"Heavy rainfall of 110mm in Powai leads to waterlogging, Section 144 imposed.",NORMAL,0.489
+"Heavy rainfall of 138mm in Dharavi leads to waterlogging, Section 144 imposed.",DISRUPTION,0.987
+"Heavy rainfall of 56mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.877
+"Heavy rainfall of 62mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.944
+"Heavy rainfall of 33mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.875
+Local festival Diwali celebrated peacefully in Koramangala.,DISRUPTION,0.431
+"Heavy rainfall of 44mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.922
+"Heavy rainfall of 96mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.899
+"Heavy rainfall of 95mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.968
+"Temperature soars to 47°C in Saket, heatwave declared.",DISRUPTION,0.864
+"Temperature soars to 44°C in Goregaon, heatwave declared.",DISRUPTION,0.86
+"Heavy rainfall of 30mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.936
+"Bandh called by political party in Dharavi, normal life disrupted.",DISRUPTION,0.959
+"Heavy rainfall of 128mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.955
+Local festival Pongal celebrated peacefully in Connaught Place.,NORMAL,0.928
+"Heavy rainfall of 46mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.943
+"Heavy rainfall of 57mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.999
+"Heavy rainfall of 36mm in Bandra West leads to waterlogging, Section 144 imposed.",DISRUPTION,0.907
+"Heavy rainfall of 105mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.87
+"Cyclone Yaas makes landfall, Jubilee Hills receives red alert.",DISRUPTION,0.921
+"Cyclone Tauktae makes landfall, Salt Lake receives red alert.",DISRUPTION,0.883
+"Heavy rainfall of 66mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.936
+Local festival Christmas celebrated peacefully in Connaught Place.,NORMAL,0.903
+"Temperature soars to 48°C in Dharavi, heatwave declared.",DISRUPTION,0.859
+"Cyclone Yaas makes landfall, Koregaon Park receives red alert.",DISRUPTION,0.852
+"Heavy rainfall of 30mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.917
+"Temperature soars to 44°C in Saket, heatwave declared.",DISRUPTION,0.882
+"Temperature soars to 46°C in Koregaon Park, heatwave declared.",DISRUPTION,0.935
+"Heavy rainfall of 64mm in Indiranagar leads to waterlogging, Section 144 imposed.",NORMAL,0.817
+"Heavy rainfall of 95mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.996
+"Heavy rainfall of 83mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.893
+"Heavy rainfall of 55mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.987
+"Heavy rainfall of 30mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.851
+"Temperature soars to 44°C in Koramangala, heatwave declared.",DISRUPTION,0.991
+"Heavy rainfall of 63mm in Connaught Place leads to waterlogging, Section 144 imposed.",DISRUPTION,0.988
+"Cyclone Amphan makes landfall, Indiranagar receives red alert.",DISRUPTION,0.889
+"Bandh called by student union in Goregaon, normal life disrupted.",DISRUPTION,0.993
+"Cyclone Yaas makes landfall, Saket receives red alert.",NORMAL,0.814
+"Cyclone Yaas makes landfall, Indiranagar receives red alert.",DISRUPTION,0.891
+"Temperature soars to 46°C in Salt Lake, heatwave declared.",DISRUPTION,0.966
+"Heavy rainfall of 84mm in Powai leads to waterlogging, Section 144 imposed.",NORMAL,0.556
+"Heavy rainfall of 137mm in Koramangala leads to waterlogging, Section 144 imposed.",DISRUPTION,0.894
+"Temperature soars to 42°C in Saket, heatwave declared.",DISRUPTION,0.892
+"Heavy rainfall of 49mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.86
+"Heavy rainfall of 120mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",NORMAL,0.721
+"Heavy rainfall of 100mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.878
+"Bandh called by trader association in Andheri East, normal life disrupted.",NORMAL,0.567
+"Heavy rainfall of 52mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.986
+"Temperature soars to 42°C in Indiranagar, heatwave declared.",DISRUPTION,0.917
+"Heavy rainfall of 36mm in Dharavi leads to waterlogging, Section 144 imposed.",DISRUPTION,0.993
+"Heavy rainfall of 92mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.985
+"Heavy rainfall of 129mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.899
+"Heavy rainfall of 63mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.858
+"Temperature soars to 43°C in Koramangala, heatwave declared.",DISRUPTION,0.936
+"Cyclone Shaheen makes landfall, Andheri East receives red alert.",DISRUPTION,0.969
+"Bandh called by local residents in Powai, normal life disrupted.",NORMAL,0.75
+"Heavy rainfall of 77mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.982
+"Cyclone Tauktae makes landfall, Jubilee Hills receives red alert.",DISRUPTION,0.87
+"Heavy rainfall of 67mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.91
+"Temperature soars to 43°C in Andheri East, heatwave declared.",NORMAL,0.433
+"Heavy rainfall of 119mm in Park Street leads to waterlogging, Section 144 imposed.",NORMAL,0.533
+"Temperature soars to 48°C in Connaught Place, heatwave declared.",DISRUPTION,0.965
+"Cyclone Yaas makes landfall, Connaught Place receives red alert.",NORMAL,0.406
+"Heavy rainfall of 89mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",NORMAL,0.81
+"Heavy rainfall of 112mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.851
+"Heavy rainfall of 54mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.974
+Local festival Christmas celebrated peacefully in Saket.,NORMAL,0.899
+"Bandh called by trader association in Koregaon Park, normal life disrupted.",DISRUPTION,0.859
+Local festival Diwali celebrated peacefully in Saket.,NORMAL,0.96
+"Heavy rainfall of 134mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.971
+"Heavy rainfall of 80mm in Hitech City leads to waterlogging, Section 144 imposed.",NORMAL,0.637
+"Heavy rainfall of 97mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.926
+"Heavy rainfall of 125mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.94
+"Heavy rainfall of 86mm in Salt Lake leads to waterlogging, Section 144 imposed.",NORMAL,0.696
+"Heavy rainfall of 107mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.993
+"Bandh called by local residents in Vastrapur, normal life disrupted.",DISRUPTION,0.905
+"Heavy rainfall of 83mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.962
+"Heavy rainfall of 92mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.954
+"Heavy rainfall of 119mm in Bandra West leads to waterlogging, Section 144 imposed.",DISRUPTION,0.943
+Local festival Pongal celebrated peacefully in Indiranagar.,NORMAL,0.861
+"Heavy rainfall of 95mm in Connaught Place leads to waterlogging, Section 144 imposed.",DISRUPTION,0.86
+"Heavy rainfall of 141mm in Goregaon leads to waterlogging, Section 144 imposed.",NORMAL,0.674
+"Heavy rainfall of 51mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.858
+"Heavy rainfall of 92mm in Connaught Place leads to waterlogging, Section 144 imposed.",DISRUPTION,0.873
+"Cyclone Amphan makes landfall, Salt Lake receives red alert.",DISRUPTION,0.874
+"Cyclone Gulab makes landfall, Saket receives red alert.",NORMAL,0.441
+"Temperature soars to 46°C in Jubilee Hills, heatwave declared.",DISRUPTION,0.986
+Local festival Eid celebrated peacefully in Salt Lake.,NORMAL,0.867
+"Heavy rainfall of 49mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.942
+"Heavy rainfall of 111mm in Connaught Place leads to waterlogging, Section 144 imposed.",DISRUPTION,0.969
+"Heavy rainfall of 98mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.924
+"Heavy rainfall of 62mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.89
+"Temperature soars to 46°C in Indiranagar, heatwave declared.",NORMAL,0.53
+"Heavy rainfall of 140mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.963
+"Bandh called by political party in Salt Lake, normal life disrupted.",NORMAL,0.713
+"Heavy rainfall of 56mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.91
+"Heavy rainfall of 64mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.954
+"Heavy rainfall of 104mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",NORMAL,0.645
+"Bandh called by student union in Bandra West, normal life disrupted.",DISRUPTION,0.957
+"Heavy rainfall of 62mm in Koramangala leads to waterlogging, Section 144 imposed.",DISRUPTION,0.928
+"Bandh called by political party in Koramangala, normal life disrupted.",DISRUPTION,0.923
+"Temperature soars to 43°C in Saket, heatwave declared.",DISRUPTION,0.87
+"Temperature soars to 42°C in Koregaon Park, heatwave declared.",NORMAL,0.489
+Local festival Christmas celebrated peacefully in Park Street.,NORMAL,0.853
+"Heavy rainfall of 100mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.879
+"Heavy rainfall of 51mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.959
+Local festival Diwali celebrated peacefully in Park Street.,NORMAL,0.962
+"Temperature soars to 47°C in Vastrapur, heatwave declared.",DISRUPTION,0.915
+"Cyclone Gulab makes landfall, Andheri East receives red alert.",DISRUPTION,0.97
+Local festival Pongal celebrated peacefully in Koramangala.,NORMAL,0.948
+"Heavy rainfall of 55mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.923
+Local festival Diwali celebrated peacefully in Andheri East.,DISRUPTION,0.583
+"Heavy rainfall of 148mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.95
+"Bandh called by trader association in Vastrapur, normal life disrupted.",DISRUPTION,0.905
+"Heavy rainfall of 131mm in Salt Lake leads to waterlogging, Section 144 imposed.",NORMAL,0.536
+Local festival Pongal celebrated peacefully in Andheri East.,NORMAL,0.86
+"Heavy rainfall of 107mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.961
+"Heavy rainfall of 113mm in Saket leads to waterlogging, Section 144 imposed.",NORMAL,0.531
+"Heavy rainfall of 59mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.873
+"Bandh called by local residents in Park Street, normal life disrupted.",DISRUPTION,0.855
+"Heavy rainfall of 75mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.899
+"Heavy rainfall of 44mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.861
+"Heavy rainfall of 55mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.858
+"Bandh called by local residents in Koregaon Park, normal life disrupted.",DISRUPTION,0.996
+"Temperature soars to 42°C in Hitech City, heatwave declared.",DISRUPTION,0.96
+"Heavy rainfall of 126mm in Dharavi leads to waterlogging, Section 144 imposed.",DISRUPTION,0.934
+"Heavy rainfall of 40mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.899
+"Heavy rainfall of 141mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.978
+"Heavy rainfall of 56mm in Connaught Place leads to waterlogging, Section 144 imposed.",DISRUPTION,0.974
+"Heavy rainfall of 137mm in Park Street leads to waterlogging, Section 144 imposed.",NORMAL,0.587
+"Heavy rainfall of 122mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.989
+"Temperature soars to 48°C in Jubilee Hills, heatwave declared.",DISRUPTION,0.999
+"Temperature soars to 46°C in Andheri East, heatwave declared.",DISRUPTION,0.99
+Local festival Christmas celebrated peacefully in Koregaon Park.,NORMAL,0.964
+"Heavy rainfall of 64mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.974
+"Heavy rainfall of 124mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.917
+"Heavy rainfall of 115mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.932
+"Cyclone Shaheen makes landfall, Park Street receives red alert.",DISRUPTION,0.91
+"Heavy rainfall of 122mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.969
+"Temperature soars to 43°C in Hitech City, heatwave declared.",DISRUPTION,0.985
+"Heavy rainfall of 126mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.898
+"Heavy rainfall of 80mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.882
+"Heavy rainfall of 83mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.945
+"Heavy rainfall of 108mm in Koramangala leads to waterlogging, Section 144 imposed.",DISRUPTION,0.87
+"Heavy rainfall of 110mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.888
+"Heavy rainfall of 50mm in Bandra West leads to waterlogging, Section 144 imposed.",NORMAL,0.781
+"Heavy rainfall of 42mm in Hitech City leads to waterlogging, Section 144 imposed.",DISRUPTION,0.913
+"Heavy rainfall of 149mm in Dharavi leads to waterlogging, Section 144 imposed.",DISRUPTION,0.918
+Local festival Pongal celebrated peacefully in Salt Lake.,DISRUPTION,0.508
+"Heavy rainfall of 141mm in Hitech City leads to waterlogging, Section 144 imposed.",DISRUPTION,0.871
+"Heavy rainfall of 115mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.897
+"Heavy rainfall of 141mm in Bandra West leads to waterlogging, Section 144 imposed.",DISRUPTION,0.855
+"Heavy rainfall of 54mm in Hitech City leads to waterlogging, Section 144 imposed.",DISRUPTION,0.998
+"Heavy rainfall of 33mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.887
+"Heavy rainfall of 115mm in Hitech City leads to waterlogging, Section 144 imposed.",DISRUPTION,0.882
+"Heavy rainfall of 74mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.868
+"Heavy rainfall of 109mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.978
+"Heavy rainfall of 77mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.948
+"Heavy rainfall of 140mm in Bandra West leads to waterlogging, Section 144 imposed.",NORMAL,0.716
+"Temperature soars to 46°C in Connaught Place, heatwave declared.",DISRUPTION,0.931
+"Heavy rainfall of 78mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.943
+Local festival Holi celebrated peacefully in Indiranagar.,NORMAL,0.94
+Local festival Holi celebrated peacefully in Koramangala.,NORMAL,0.95
+"Heavy rainfall of 61mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.976
+"Heavy rainfall of 36mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.938
+"Heavy rainfall of 37mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.872
+"Bandh called by local residents in Indiranagar, normal life disrupted.",DISRUPTION,0.956
+"Heavy rainfall of 87mm in Salt Lake leads to waterlogging, Section 144 imposed.",NORMAL,0.572
+"Heavy rainfall of 42mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.865
+"Heavy rainfall of 119mm in Hitech City leads to waterlogging, Section 144 imposed.",NORMAL,0.688
+"Heavy rainfall of 115mm in Dharavi leads to waterlogging, Section 144 imposed.",DISRUPTION,0.868
+"Heavy rainfall of 127mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.977
+"Temperature soars to 44°C in Andheri East, heatwave declared.",DISRUPTION,0.893
+"Heavy rainfall of 114mm in Hitech City leads to waterlogging, Section 144 imposed.",DISRUPTION,0.982
+"Heavy rainfall of 116mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.85
+"Heavy rainfall of 62mm in Bandra West leads to waterlogging, Section 144 imposed.",DISRUPTION,0.888
+Local festival Christmas celebrated peacefully in Koramangala.,NORMAL,0.865
+"Heavy rainfall of 69mm in Koramangala leads to waterlogging, Section 144 imposed.",DISRUPTION,0.887
+"Heavy rainfall of 59mm in Vastrapur leads to waterlogging, Section 144 imposed.",NORMAL,0.827
+"Heavy rainfall of 122mm in Koramangala leads to waterlogging, Section 144 imposed.",DISRUPTION,0.984
+Local festival Pongal celebrated peacefully in Dharavi.,NORMAL,0.853
+"Heavy rainfall of 148mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.946
+"Heavy rainfall of 76mm in Saket leads to waterlogging, Section 144 imposed.",NORMAL,0.473
+"Heavy rainfall of 31mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.994
+"Heavy rainfall of 64mm in Koramangala leads to waterlogging, Section 144 imposed.",DISRUPTION,0.869
+"Heavy rainfall of 134mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.931
+"Heavy rainfall of 47mm in Koramangala leads to waterlogging, Section 144 imposed.",DISRUPTION,0.972
+"Heavy rainfall of 56mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.955
+"Heavy rainfall of 115mm in Bandra West leads to waterlogging, Section 144 imposed.",DISRUPTION,0.975
+"Heavy rainfall of 47mm in Koregaon Park leads to waterlogging, Section 144 imposed.",NORMAL,0.835
+"Heavy rainfall of 111mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.948
+"Heavy rainfall of 79mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.976
+"Heavy rainfall of 50mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.922
+"Heavy rainfall of 105mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.852
+"Heavy rainfall of 102mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.993
+"Heavy rainfall of 40mm in Hitech City leads to waterlogging, Section 144 imposed.",DISRUPTION,0.981
+"Heavy rainfall of 43mm in Andheri East leads to waterlogging, Section 144 imposed.",NORMAL,0.728
+"Heavy rainfall of 85mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.919
+"Temperature soars to 47°C in Koramangala, heatwave declared.",DISRUPTION,0.923
+"Heavy rainfall of 78mm in Dharavi leads to waterlogging, Section 144 imposed.",DISRUPTION,0.971
+"Heavy rainfall of 109mm in Bandra West leads to waterlogging, Section 144 imposed.",NORMAL,0.784
+"Heavy rainfall of 95mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.892
+"Heavy rainfall of 87mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.892
+"Heavy rainfall of 55mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.856
+"Temperature soars to 43°C in Koregaon Park, heatwave declared.",NORMAL,0.694
+"Heavy rainfall of 125mm in Koramangala leads to waterlogging, Section 144 imposed.",DISRUPTION,0.894
+"Heavy rainfall of 58mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.951
+"Heavy rainfall of 131mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.875
+"Heavy rainfall of 130mm in Dharavi leads to waterlogging, Section 144 imposed.",DISRUPTION,0.997
+"Heavy rainfall of 142mm in Andheri East leads to waterlogging, Section 144 imposed.",NORMAL,0.784
+"Heavy rainfall of 84mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.981
+"Temperature soars to 47°C in Park Street, heatwave declared.",DISRUPTION,0.987
+"Heavy rainfall of 57mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.917
+"Heavy rainfall of 93mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.884
+"Temperature soars to 48°C in Vastrapur, heatwave declared.",DISRUPTION,0.896
+"Heavy rainfall of 68mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.975
+"Heavy rainfall of 111mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.896
+"Cyclone Tauktae makes landfall, Dharavi receives red alert.",DISRUPTION,0.878
+"Temperature soars to 48°C in Hitech City, heatwave declared.",NORMAL,0.431
+"Heavy rainfall of 63mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.947
+"Heavy rainfall of 32mm in Koramangala leads to waterlogging, Section 144 imposed.",DISRUPTION,0.983
+"Heavy rainfall of 48mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.892
+"Heavy rainfall of 140mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.988
+"Heavy rainfall of 68mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.96
+"Heavy rainfall of 131mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.94
+"Heavy rainfall of 106mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.948
+"Heavy rainfall of 92mm in Bandra West leads to waterlogging, Section 144 imposed.",DISRUPTION,0.992
+"Heavy rainfall of 102mm in Koramangala leads to waterlogging, Section 144 imposed.",DISRUPTION,0.995
+"Bandh called by trader association in Dharavi, normal life disrupted.",DISRUPTION,0.9
+"Heavy rainfall of 104mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.867
+"Temperature soars to 47°C in Goregaon, heatwave declared.",DISRUPTION,0.977
+"Temperature soars to 43°C in Salt Lake, heatwave declared.",DISRUPTION,0.895
+"Heavy rainfall of 66mm in Salt Lake leads to waterlogging, Section 144 imposed.",DISRUPTION,0.905
+"Heavy rainfall of 94mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.976
+"Heavy rainfall of 80mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.911
+"Heavy rainfall of 119mm in Koramangala leads to waterlogging, Section 144 imposed.",NORMAL,0.493
+"Heavy rainfall of 97mm in Saket leads to waterlogging, Section 144 imposed.",DISRUPTION,0.917
+"Heavy rainfall of 116mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.938
+"Cyclone Amphan makes landfall, Connaught Place receives red alert.",DISRUPTION,0.895
+"Heavy rainfall of 94mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.854
+"Heavy rainfall of 94mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.956
+"Heavy rainfall of 83mm in Koramangala leads to waterlogging, Section 144 imposed.",DISRUPTION,0.873
+"Heavy rainfall of 73mm in Koregaon Park leads to waterlogging, Section 144 imposed.",DISRUPTION,0.998
+"Temperature soars to 44°C in Connaught Place, heatwave declared.",DISRUPTION,0.915
+"Heavy rainfall of 90mm in Hitech City leads to waterlogging, Section 144 imposed.",DISRUPTION,0.996
+"Heavy rainfall of 52mm in Dharavi leads to waterlogging, Section 144 imposed.",NORMAL,0.442
+"Heavy rainfall of 122mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.961
+"Heavy rainfall of 59mm in Bandra West leads to waterlogging, Section 144 imposed.",DISRUPTION,0.954
+"Heavy rainfall of 81mm in Koramangala leads to waterlogging, Section 144 imposed.",DISRUPTION,0.984
+"Heavy rainfall of 44mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.866
+"Heavy rainfall of 127mm in Andheri East leads to waterlogging, Section 144 imposed.",NORMAL,0.699
+"Heavy rainfall of 140mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.948
+"Heavy rainfall of 48mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.911
+"Heavy rainfall of 56mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.889
+"Heavy rainfall of 39mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.955
+"Heavy rainfall of 94mm in Dharavi leads to waterlogging, Section 144 imposed.",DISRUPTION,0.952
+"Heavy rainfall of 111mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.953
+"Heavy rainfall of 36mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.878
+"Heavy rainfall of 110mm in Connaught Place leads to waterlogging, Section 144 imposed.",DISRUPTION,0.915
+"Heavy rainfall of 85mm in Dharavi leads to waterlogging, Section 144 imposed.",DISRUPTION,0.925
+"Heavy rainfall of 93mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.975
+"Heavy rainfall of 64mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",DISRUPTION,0.965
+"Heavy rainfall of 43mm in Indiranagar leads to waterlogging, Section 144 imposed.",DISRUPTION,0.929
+"Heavy rainfall of 75mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.993
+"Heavy rainfall of 139mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.956
+"Heavy rainfall of 41mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.909
+"Heavy rainfall of 107mm in Saket leads to waterlogging, Section 144 imposed.",NORMAL,0.574
+"Heavy rainfall of 150mm in Indiranagar leads to waterlogging, Section 144 imposed.",NORMAL,0.736
+"Heavy rainfall of 30mm in Dharavi leads to waterlogging, Section 144 imposed.",DISRUPTION,0.982
+"Heavy rainfall of 146mm in Bandra West leads to waterlogging, Section 144 imposed.",NORMAL,0.613
+"Heavy rainfall of 33mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.987
+"Heavy rainfall of 42mm in Indiranagar leads to waterlogging, Section 144 imposed.",NORMAL,0.704
+"Heavy rainfall of 50mm in Goregaon leads to waterlogging, Section 144 imposed.",DISRUPTION,0.893
+"Heavy rainfall of 105mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.855
+"Heavy rainfall of 144mm in Park Street leads to waterlogging, Section 144 imposed.",DISRUPTION,0.892
+"Heavy rainfall of 150mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.911
+"Heavy rainfall of 127mm in Vastrapur leads to waterlogging, Section 144 imposed.",NORMAL,0.482
+"Heavy rainfall of 71mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.997
+"Heavy rainfall of 102mm in Hitech City leads to waterlogging, Section 144 imposed.",DISRUPTION,0.946
+Local festival Eid celebrated peacefully in Bandra West.,NORMAL,0.925
+"Temperature soars to 48°C in Powai, heatwave declared.",DISRUPTION,0.928
+"Heavy rainfall of 66mm in Koregaon Park leads to waterlogging, Section 144 imposed.",NORMAL,0.776
+"Heavy rainfall of 54mm in Vastrapur leads to waterlogging, Section 144 imposed.",DISRUPTION,0.9
+"Heavy rainfall of 31mm in Hitech City leads to waterlogging, Section 144 imposed.",DISRUPTION,0.939
+"Heavy rainfall of 131mm in Dharavi leads to waterlogging, Section 144 imposed.",DISRUPTION,0.932
+"Heavy rainfall of 31mm in Andheri East leads to waterlogging, Section 144 imposed.",DISRUPTION,0.865
+"Heavy rainfall of 138mm in Powai leads to waterlogging, Section 144 imposed.",DISRUPTION,0.929
+Local festival Holi celebrated peacefully in Koregaon Park.,NORMAL,0.9
+"Heavy rainfall of 98mm in Jubilee Hills leads to waterlogging, Section 144 imposed.",NORMAL,0.44
+"Heavy rainfall of 75mm in Koramangala leads to waterlogging, Section 144 imposed.",DISRUPTION,0.926

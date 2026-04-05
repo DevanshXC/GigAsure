@@ -1,0 +1,1 @@
+"""Mock Zomato Partner API."""
