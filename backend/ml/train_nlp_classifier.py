@@ -107,7 +107,7 @@ def main() -> None:
         warmup_steps=100,
         weight_decay=0.01,
         logging_steps=50,
-        eval_strategy="epoch",
+        evaluation_strategy="epoch",
         save_strategy="no",
         load_best_model_at_end=False,
         report_to="none",
