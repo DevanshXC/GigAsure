@@ -28,10 +28,10 @@ export const NextWeekCoverage: React.FC<{ riderId: string }> = ({ riderId }) => 
   const isDown = data.direction === 'down';
 
   return (
-    <div className="bg-white rounded-card shadow-card overflow-hidden mb-6 border border-neutral-border">
+    <div className="bg-white rounded-[24px] shadow-[0_4px_25px_-5px_rgba(0,0,0,0.05)] overflow-hidden mb-6 border border-neutral-200 hover:border-primary/30 transition-colors">
       {/* Header / Summary Bar */}
       <div 
-        className="p-4 flex items-center justify-between cursor-pointer hover:bg-neutral-bg transition-colors"
+        className="p-5 flex items-center justify-between cursor-pointer hover:bg-neutral-50 transition-colors"
         onClick={() => setExpanded(!expanded)}
       >
         <div className="flex items-center gap-3">

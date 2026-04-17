@@ -6,6 +6,8 @@ from typing import Optional
 from dotenv import load_dotenv
 from motor.motor_asyncio import AsyncIOMotorClient, AsyncIOMotorDatabase
 import redis.asyncio as redis
+import mongomock_motor
+import fakeredis.aioredis
 
 load_dotenv()
 
@@ -16,10 +18,14 @@ _redis = None
 
 def connect_db() -> None:
     global _mongo_client, _db
-    url = os.getenv("MONGO_URL", "mongodb://localhost:27017")
+    url = os.getenv("MONGO_URL", "mock")
     # Only use TLS for Atlas URIs (contain mongodb+srv or @cluster)
     use_tls = "mongodb+srv" in url or "@cluster" in url or "mongodb.net" in url
-    if use_tls:
+    
+    if url == "mock" or not url:
+        print("🔧 Using in-memory MongoMock for local testing")
+        _mongo_client = mongomock_motor.AsyncMongoMockClient()
+    elif use_tls:
         _mongo_client = AsyncIOMotorClient(
             url,
             tls=True,
@@ -75,11 +81,14 @@ def waitlist_col():
 
 async def connect_redis():
     global _redis
-    url = os.getenv("REDIS_URL", "redis://localhost:6379")
-    # FIX: guard against missing REDIS_URL env var (was crashing if unset)
-    _redis = redis.from_url(url, decode_responses=True)
-    await _redis.ping()
-    print("✅ Redis connected")
+    url = os.getenv("REDIS_URL", "mock")
+    if url == "mock" or not url:
+        print("🔧 Using in-memory FakeRedis for local testing")
+        _redis = fakeredis.aioredis.FakeRedis(decode_responses=True)
+    else:
+        _redis = redis.from_url(url, decode_responses=True)
+        await _redis.ping()
+    print("✅ Redis connected (or mock)")
 
 
 async def close_redis() -> None:

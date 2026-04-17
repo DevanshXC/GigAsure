@@ -194,6 +194,12 @@ export async function getAdminDashboard(): Promise<{
   bcr_current: number
   fraud_flags_pending: number
   zone_risk_map: any
+  loss_ratio: number
+  predictive_analytics: {
+    likely_disruptions_next_week: Array<{ zone: string; probability: number; reason: string }>
+    projected_claims_count: number
+    projected_payout_volume: number
+  }
 }> {
   return await api.get('/api/admin/dashboard')
 }

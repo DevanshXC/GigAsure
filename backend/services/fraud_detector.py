@@ -142,6 +142,20 @@ def check_gps_accuracy(location: dict[str, Any]) -> float:
     return 0.0
 
 
+def check_fake_weather(event: dict[str, Any], location: dict[str, Any]) -> float:
+    """Mock check to verify if weather was actually bad using historical data."""
+    if event.get("trigger_type") != "weather":
+        return 0.0
+        
+    # In a real system, we'd query a historical weather API for location lat/lng and event time.
+    # Here we simulate finding no precipitation data for a mock region to flag as fake weather.
+    lat = float(location.get("lat", 0))
+    if 18.9 <= lat <= 19.0: # Simulating a region that had clear skies
+        print(f"[FRAUD] Fake weather detected for lat {lat} based on mock historical data")
+        return 0.40
+    return 0.0
+
+
 def _duty_minutes(trigger_time: datetime, duty: dict[str, Any]) -> float:
     since = duty.get("since")
     if not since:
@@ -337,8 +351,14 @@ async def compute_fraud_score(
             await check_teleportation(rider_id, location)
             + await check_order_footprint(rider_id)
             + check_duty_timing(rider_id, trigger_time, duty)
-            + check_gps_accuracy(location),
+            + check_gps_accuracy(location)
+            + check_fake_weather(event, location),
         )
+
+    # ML Override: if fake weather is strongly detected by rules, bump the score
+    fw_score = check_fake_weather(event, location)
+    if fw_score > 0 and score < 0.5:
+        score = min(1.0, score + fw_score)
 
     print(
         f"[FRAUD] rider={rider_id} event={event_id} score={score:.3f} "

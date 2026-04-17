@@ -9,29 +9,32 @@ export const HeroCard: React.FC<{ policy: Policy }> = ({ policy }) => {
     <motion.div 
       initial={{ opacity: 0, y: 15 }}
       animate={{ opacity: 1, y: 0 }}
-      className="google-card-elevated p-6 mb-5 relative overflow-hidden bg-primary-light border-none"
+      className="p-6 mb-5 relative overflow-hidden rounded-[24px] border border-white/20 shadow-2xl bg-gradient-to-br from-primary via-primary-hover to-neutral-900 text-white"
     >
+      <div className="absolute top-0 right-0 w-32 h-32 bg-white/10 blur-[50px] pointer-events-none rounded-full" />
+      <div className="absolute -bottom-10 -left-10 w-40 h-40 bg-black/20 blur-[50px] pointer-events-none rounded-full" />
+      
       <div className="flex items-center gap-3 mb-3 relative z-10">
-        <div className="p-2 bg-primary text-white rounded-full">
-          <Shield size={20} fill="currentColor" className="text-white" />
+        <div className="p-2 bg-white/20 backdrop-blur-md rounded-full shadow-inner border border-white/30">
+          <Shield size={20} className="text-white" />
         </div>
-        <h2 className="font-bold tracking-tight text-[14px] text-primary-text">Protected This Week</h2>
+        <h2 className="font-bold tracking-tight text-[15px] text-white/90 drop-shadow-md">Active Policy Protection</h2>
       </div>
       
-      <p className="text-neutral-text text-sm mb-4 relative z-10 font-medium tracking-wide">
+      <p className="text-white/80 text-sm mb-4 relative z-10 font-medium tracking-wide">
         {formatDate(policy.coverage_start)} – {formatDate(policy.coverage_end)}
       </p>
       
-      <div className="border-t border-primary/20 my-4 relative z-10" />
+      <div className="border-t border-white/20 my-4 relative z-10" />
       
       <div className="grid grid-cols-2 gap-4 relative z-10">
         <div>
-          <p className="text-primary-text text-[11px] font-semibold tracking-wide">Premium</p>
-          <p className="font-bold text-2xl text-primary-hover mt-0.5">₹{(policy?.weekly_premium || 0).toFixed(2)}</p>
+          <p className="text-white/70 text-[11px] font-semibold tracking-wider uppercase">Premium</p>
+          <p className="font-bold text-2xl text-white mt-0.5 drop-shadow-md">₹{(policy?.weekly_premium || 0).toFixed(2)}</p>
         </div>
         <div>
-          <p className="text-primary-text text-[11px] font-semibold tracking-wide">Active Zone</p>
-          <p className="font-bold text-2xl text-primary-hover mt-0.5 truncate">
+          <p className="text-white/70 text-[11px] font-semibold tracking-wider uppercase">Active Zone</p>
+          <p className="font-bold text-2xl text-white mt-0.5 truncate drop-shadow-md">
             {(policy?.zone_id || '').replace('MUM-', '').replace('DEL-', '').replace('BLR-', '') || 'Unknown'}
           </p>
         </div>
